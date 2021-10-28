@@ -1,0 +1,9 @@
+{
+    "name": "sugi.setting-pannel",
+    "displayName": "sugi.SettingPannel",
+    "version": "0.1.0",
+    "unity": "2020.1",
+    "author": {
+      "name": "sugi-cho"
+    }
+  }
